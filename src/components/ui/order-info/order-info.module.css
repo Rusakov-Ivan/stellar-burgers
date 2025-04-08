@@ -74,3 +74,9 @@
 .total {
   margin-left: auto;
 }
+
+ .order_number {
+  position: relative;
+  top: -45px;
+  z-index: -1;
+} 
