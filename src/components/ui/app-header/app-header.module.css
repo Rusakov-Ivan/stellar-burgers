@@ -18,10 +18,13 @@
   display: flex;
   text-decoration: none;
   color: var(--text-inactive-color);
+  cursor: pointer;
 }
 
 .link_active {
   color: var(--text-primary-color);
+  text-decoration: none;
+  display: flex;
 }
 
 .link_position_last {
